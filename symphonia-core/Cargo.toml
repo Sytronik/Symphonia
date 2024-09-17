@@ -33,7 +33,7 @@ bytemuck = "1.7"
 lazy_static = "1.4.0"
 log = "0.4"
 num-complex = "0.4"
-smallvec = "1.13.1"
+smallvec = "1.11.2"
 
 [dependencies.rustfft]
 version = "6.1.0"
